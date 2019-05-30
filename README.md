@@ -11,7 +11,7 @@ Python Web Crawling Study & Project
 - win32api
    <pre>pip install pywin32</pre>
 
-### NaverNewsCrawling
+### NaverNewsCrawling Folder
 > Install program
 
 - KoreaNewsCrawler
