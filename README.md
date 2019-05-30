@@ -2,7 +2,7 @@
 Python Web Crawling Study & Project  
 
 ### WebScraping Folder
-> Install External Libraries
+> Install program
 
 - selenium
    <pre>pip install selenium</pre>
@@ -10,3 +10,9 @@ Python Web Crawling Study & Project
    <pre>pip install pyperclip</pre>
 - win32api
    <pre>pip install pywin32</pre>
+
+### NaverNewsCrawling Folder
+> Install program
+
+- KoreaNewsCrawler
+   <pre>pip install KoreaNewsCrawler</pre>
