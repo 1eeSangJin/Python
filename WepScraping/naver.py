@@ -14,8 +14,8 @@ class Naver(object):
         options.add_argument("lang=ko_KR")
         options.add_argument('user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36')
         options.add_argument("user-data-dir=\\user-data\\naver\\")
-        self.driver = webdriver.Chrome('D:\chromedriver', chrome_options=options)
-        self.driver.get('https://naver.com')
+        self.driver = webdriver.Chrome('D:\chromedriver', chrome_options=options)   #chromedriver start
+        self.driver.get('https://naver.com')                                        #get naver page
 
         self.explicit_wait_time = 1;
         self.driver_utils = DriverUtils(self.driver)
