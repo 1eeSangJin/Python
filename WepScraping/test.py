@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import time
 
 if __name__ == "__main__" :
-    naver = Naver('dltkdwls0401', 'qlalfqjsgh`1')   #앞에는 id, 뒤에는 비밀번호
+    naver = Naver('your_id', 'your_pass')   #앞에는 id, 뒤에는 비밀번호
     try:
         naver.clipboard_login(naver.ID, naver.PW)
     finally:
