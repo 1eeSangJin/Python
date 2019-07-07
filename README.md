@@ -16,3 +16,28 @@ Python Web Crawling Study & Project
 
 - KoreaNewsCrawler
    <pre>pip install KoreaNewsCrawler</pre>
+  
+- selenium
+   <pre>pip install selenium</pre>
+   
+  
+### 
+> Install program
+
+- selenium
+   <pre>pip install selenium</pre>
+   
+- BeautifulSoup
+   <pre>pip install beautifulsoup4</pre>
+
+- tkinter
+   <pre>pip install tkinter</pre>
+
+- pandas
+   <pre>pip install pandas</pre>
+   
+- matplotlib
+   <pre>pip install matplotlib</pre>
+   
+- Google Natural Language API
+   <pre>pip install --upgrade google-cloud-language</pre>
